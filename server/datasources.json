@@ -1,0 +1,13 @@
+{
+  "random": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb+srv://saurabh:atlas@pms.6ntze.mongodb.net/random?retryWrites=true&w=majority",
+    "database": "",
+    "password": "",
+    "name": "random",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
