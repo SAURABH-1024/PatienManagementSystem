@@ -1,0 +1,14 @@
+.form-outline {
+  display: flex;
+  margin: 15px;
+}
+
+.go-back{
+  display: flex;
+  background-color: #f4623a;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 38px;
+  margin-top: 40px;
+  margin-left: 15px;
+}
